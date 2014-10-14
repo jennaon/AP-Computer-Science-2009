@@ -111,4 +111,3 @@ class HeapSort<E extends Comparable<E>>
 	}
 }
 
-//quick이 제일 빠르다!
