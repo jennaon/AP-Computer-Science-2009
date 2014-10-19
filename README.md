@@ -1,3 +1,5 @@
-AP-Computer-Science-2009
+Sorting Algorithms (2009) 
+Simple data structure and algorithm exercises -- sorting, mapping, etc
+Written by Jenna Lee
 ========================
-Simple data structure and algorithm exercises -- sorting, mapping, etc. 
+
